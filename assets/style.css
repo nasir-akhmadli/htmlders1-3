@@ -7,3 +7,9 @@ body{
     font-family: 'Ibarra Real Nova', serif;
     
 }
+a {
+  text-decoration:none;
+}
+table,td,th,tr {
+    border: 500px;
+}
